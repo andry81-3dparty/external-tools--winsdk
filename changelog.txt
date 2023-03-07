@@ -1,0 +1,3 @@
+2023.03.07:
+* new: changelog.txt: changelog details
+* new: README_EN.txt: readme details
